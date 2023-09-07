@@ -4,10 +4,26 @@
 
 
 <h1 align="left">Welcome to Carlos Santos dataset</h1>
-<h3 align="left">I'm a professional passionate about data, analitics and technology, with a degree in Computer Engineering, Agroecology and Data Analysis.</h3> 
-<h3 align="left">I believe in the union of technology and ecology to provide a more conscious, balanced and prosperous future.</h3>
-<h3 align="left">With engineering knowledge, supported by tools such as SQL, Python and Power BI, I try to solve complex challenges and find innovative solutions to promote sustainability, social equality  and and better decisions.</h3>
 
+# About Me.
+
+Hi, my name is Carlos Rafael Batista Santos.
+
+I have a degree in Computer Engineering, and I am passionate about data, programming and technology.
+
+I believe that Data Analysis/Data Science are important tools to help make decisions, resolve complex challenges, and search for innovative solutions to enhance business, improve efficiency and increase company profitability.
+
+
+# Studies.
+
+I am currently studying Python, SQL and Power BI, and attending a Data Science bootcamp at DIO.
+
+
+# Goals.
+
+I believe that the current moment is opportune for career transition. I look forward to progressing and exploring further in the field of Data Science.
+
+I love learning and sharing knowledge, and I hope one day to be part of the group of people who will make this world better through technology.
 
 
 
@@ -84,32 +100,11 @@
 
 
 
-# About Me.
-
-🐱‍👤
-
-Hi, my name is Bruno Marx, please do not confuse with Bruno Mars. 
-
-# Studies
-
-📚  I am currently studying History at UFU. But I've always had a foot in technology, you know I'm one of the children of the 2000s who grew up in front of a computer.
-
-My first jobs were as a computer teacher in small schools in my city, where I had contact with HTML, CSS, JAVASCRIPT and a little bit of C and C#, all very basic.
-
-# Goals
-
-I believe that the present moment is opportune for me to progress and explore development further. Primarily, I am intrigued by the realm of data analysis and artificial intelligence.
 
 
 
-<div>
-    <h1>Olá!!! Eu sou o Rafa. 👋 </h1>
-    <h2>Bem vindo ao meu Perfil.</h2>
-    <p> Me chamo Rafael Soares. Uma pessoa que quanto mais aprende mais se apaixona pela tecnologia e a programação. Estou me dedicando à Ciência de Dados por acreditar em seu potencial de não só tornar empresas e negócios lucrativos e ecologicamente sustentáveis, mas também de ajudar, através da informação, a trazer de volta mais humanidade para os relacionamentos com o ambiente que os cercam. 
-    </p>
-    <p>Amo de aprender e compartilhar e espero um dia fazer parte do grupo das pessoas que farão esse mundo melhor através da tecnologia. 
-    </p>
-</div>
+
+
 <div>
     <h2>Conecte-se comigo</h2>
    <a href="https://www.linkedin.com/in/83rafasoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
