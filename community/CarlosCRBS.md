@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Carlos;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 
 
-<h1 align="left">Welcome to Carlos Santos dataset</h1>
+<h1 align="center">Welcome to Carlos Santos dataset</h1>
 
 # About Me.
 
@@ -24,6 +24,24 @@ I am currently studying Python, SQL and Power BI, and attending a Data Science b
 I believe that the current moment is opportune for career transition. I look forward to progressing and exploring further in the field of Data Science.
 
 I love learning and sharing knowledge, and I hope one day to be part of the group of people who will make this world better through technology.
+
+# Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ademirerthal/)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Juni0r/dio-lab-open-source/tree/main/community/Carlos-Juni0r.md)
+
+# Habilidades
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+<p align="center"> by Carlos-Juni0r </p>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/ucarlos-junior/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=default)](https://www.instagram.com/c4rlos_junior_)
+</div>
 
 
 
@@ -118,11 +136,6 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=83Rafa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-# Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ademirerthal/)
-# Habilidades
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Habilidades
 <img align="center" alt="helthon-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -242,14 +255,6 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 
 <br>
 
-<p align="center"> by Carlos-Juni0r </p>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/ucarlos-junior/)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Juni0r/dio-lab-open-source/tree/main/community/Carlos-Juni0r.md)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=default)](https://www.instagram.com/c4rlos_junior_)
-</div>
 
 
 
