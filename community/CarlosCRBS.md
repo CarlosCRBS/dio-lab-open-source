@@ -58,10 +58,9 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 
 <div style="display: inline_block">
 <h4> Others Tech Stacks </h4>
-<div align="center">
-    <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"></img>
-    <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"></img>
-    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"></img>
+    <img align="center" alt="Django" height="20" width="auto" src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"></img>
+    <img align="center" alt="Docker" height="20" width="auto" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"></img>
+    <img align="center" alt="Git" height="20" width="auto" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"></img>
 </div>
 
 
