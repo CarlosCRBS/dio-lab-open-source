@@ -53,14 +53,13 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
     <h4>IDEs:</h4>
     <img align="center" alt="VSCode" height="20" width="auto" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img align="center" alt="Sublime" height="20" width="auto" src="https://img.shields.io/badge/sublime-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-    <img align="center" alt="eclipse" height="20" width="auto" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
 
 <div style="display: inline_block">
 <h4> Others Tech Stacks </h4>
-    <img align="center" alt="Django" height="20" width="auto" src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"></img>
-    <img align="center" alt="Docker" height="20" width="auto" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"></img>
-    <img align="center" alt="Git" height="20" width="auto" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"></img>
+    <img align="center" alt="Django" height="30" width="auto" src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"></img>
+    <img align="center" alt="Docker" height="30" width="auto" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"></img>
+    <img align="center" alt="Git" height="30" width="auto" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"></img>
 </div>
 
 
@@ -69,28 +68,6 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 <a href="https://www.linkedin.com/in/carlos-rafael-batista-santos-22b80216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://github.com/CarlosCRBS/" target="_blank"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white"</a>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Principais Projetos
@@ -122,16 +99,16 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alan-Vasconi&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Alan Vasconi github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Vasconi&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BraceroInSabot&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Alan Vasconi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraceroInSabot=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
 </div>
 
-[![Alan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alan-Vasconi&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- <img width="30%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraceroInSabot&layout=compact&theme=synthwave&title_color=D9299B&border_color=F27F3D" alt="my most used languages"/><br><br>
+[![Alan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BraceroInSabot&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Belletati&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BraceroInSabot&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
 
@@ -139,9 +116,11 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 <br>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Alan-Vasconi}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosCRBS}/count.svg" /></p> 
 <br></div>
   
+Alan-Vasconi
+
 <div align="center"><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif"/></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>****
