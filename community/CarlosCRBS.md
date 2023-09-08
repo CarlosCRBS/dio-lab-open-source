@@ -42,9 +42,6 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 </div>
 
 
-
-
-
 <div style="display: inline_block">
     <h4>OS:</h4>
     <img align="center" alt="Linux" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -59,63 +56,13 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
     <img align="center" alt="eclipse" height="20" width="auto" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
 
-
-
-
-
-
-
-
-
-
-### Toolbox:
-
-
-## Conjunto de habilidades desenvolvidas
-
 <div style="display: inline_block">
-    <h4>LINGUAGENS:</h4>
-    <img alt="python" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">    
-    <img alt="typescript" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-    <img alt="javascript" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img alt="HTML" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img alt="CSS" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<h4> Others Tech Stacks </h4>
+<div align="center">
+    <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"></img>
+    <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"></img>
+    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"></img>
 </div>
-
-<div style="display: inline_block">
-    <h4>FRAMEWORKS:</h4>
-    <img alt="flask" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-    <img alt="PyTest" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg">
-    <img alt="Angular" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    <img alt="bootstrap" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-</div>
-
-<div style="display: inline_block">
-    <h4>RDBMS:</h4>
-    <img alt="PostgreSQL" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-    <img alt="MySQL" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img alt="SQLite" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
-</div>
-
-<div style="display: inline_block">
-    <h4>CLOUD:</h4>
-    <img alt="AWS" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-</div>
-
-
-    
-<div style="display: inline_block"><br>
-    <h2>Tecnologias</h2>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-PowerBI" height="30" width="30" src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle.png">
-  <img align="center" alt="Rafa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Rafa-MongoDB" height="30" width="40" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png">
-  <img align="center" alt="Rafa-AWS" height="30" width="30" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<br>
-<br>
 
 
 <h3 align="center"> Contact Me. </h3>
@@ -125,16 +72,6 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 </div>
 
 
-<h1 align="center"> Tech Stacks </h1>
-<div align="center">
-    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python"></img>
-    <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"></img>
-    <img src="https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql"></img>
-    <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"></img>
-    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"></img>
-    <img src="https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5"></img><br><br>
-   
-</div>
 
 
 
@@ -149,11 +86,8 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 
 
 
-### Habilidades
-<img align="center" alt="helthon-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Helthon-MYSQL" height="60" width="60" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png">
-<img align="center" alt="Helthon-postsql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="Helthon-powerbi" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
+
+
 
 
 
@@ -201,18 +135,14 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Belletati&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
-<div align="center"><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif"/></div>
+
 
 <br>
-
-
-
-
-
-  <div align="center">
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Alan-Vasconi}/count.svg" /></p> 
 <br></div>
   
+<div align="center"><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif"/></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>****
