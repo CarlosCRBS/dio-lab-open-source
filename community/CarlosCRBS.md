@@ -33,6 +33,13 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 ![Empathetic](https://img.shields.io/badge/Empathetic-blue)
 
 ### Hard Skills
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![PowerBi](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoftexcel&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+
 ![HTML](https://img.shields.io/badge/HTML-red)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JS](https://img.shields.io/badge/JavaScript-yellow)
@@ -44,7 +51,7 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 
 ### Toolbox:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg)&nbsp;
 ![PowerBi](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoftexcel&labelColor=0D1117&textColor=0D1117)&nbsp;
 
