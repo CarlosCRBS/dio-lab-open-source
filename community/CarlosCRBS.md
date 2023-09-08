@@ -36,9 +36,9 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 <div style="display: inline_block">
     <img alt="python" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img alt="MySQL" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img alt="Rafa-PowerBI" height="30" width="30" src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle.png">
-    <img align="center" alt="Helthon-postsql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Helthon-powerbi" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
+    <img alt="PostSQL" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img alt="powerbi" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
+    <img alt="excel" height="40" width="auto" src="https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoftexcel&labelColor=0D1117&textColor=0D1117">
 </div>
 
 <div style="display: inline_block">
@@ -60,27 +60,11 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 
 
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PowerBi](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoftexcel&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-
-![HTML](https://img.shields.io/badge/HTML-red)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JS](https://img.shields.io/badge/JavaScript-yellow)
-![PHP](https://img.shields.io/badge/PHP-darkblue)
-![SQL](https://img.shields.io/badge/SQL-orange)
 
 
 
 
 ### Toolbox:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg)&nbsp;
-![PowerBi](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoftexcel&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 ## Conjunto de habilidades desenvolvidas
