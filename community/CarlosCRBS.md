@@ -25,7 +25,8 @@ I believe that the current moment is opportune for career transition. I look for
 
 I love learning and sharing knowledge, and I hope one day to be part of the group of people who will make this world better through technology.
 
-### Contact Me.
+-- ### Contact Me.
+<h1 align="center"> Contact Me. </h3>
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/carlos-rafael-batista-santos-22b80216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
@@ -43,15 +44,6 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 
 
 
-
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alan-Vasconi&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Alan Vasconi github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Vasconi&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
-</div>
-
-[![Alan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alan-Vasconi&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -119,12 +111,7 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 
 
 
-<div>
-    <h2>Conecte-se comigo</h2>
-   <a href="https://www.linkedin.com/in/83rafasoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://discord.gg/wagxzStdcR" target="83Rfl#3843"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:83rafasoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
 <br>
 <div align="center">
   <a href="https://github.com/83Rafa">
@@ -206,12 +193,7 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
     <img align="center" alt="eclipse" height="20" width="auto" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
 
-<div style="display: inline_block">
-    <h4>REDES SOCIAS:</h4>
-    <a href="https://web.dio.me/users/migueldecotelli/" style="text-decoration: none"><img align="center" alt="DIO" height="20" width="auto" src="https://img.shields.io/badge/-DIO-000?style=for-the-badge"></a>
-    <a href="https://discord.com/users/962478664790966302/" style="text-decoration: none"><img align="center" alt="Discord" height="20" width="auto" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/miguel-angelo-a-decotelli-silva/" style="text-decoration: none"><img align="center" alt="LinkedIn" height="20" width="auto" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+
 
     
 <div style="display: inline_block"><br>
@@ -243,6 +225,17 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdemilsonSimiao&layout=compact&bg_color=013&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Contribuições no GitHub
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alan-Vasconi&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Alan Vasconi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Vasconi&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
+</div>
+
+[![Alan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alan-Vasconi&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Belletati&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
