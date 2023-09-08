@@ -81,22 +81,7 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=83Rafa&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/83Rafa/dio-lab-open-source)
 
 
-
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdemilsonSimiao&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdemilsonSimiao&layout=compact&bg_color=013&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-<br>
-<div align="center">
-  <a href="https://github.com/83Rafa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=83Rafa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=83Rafa&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ### Contribuições no GitHub
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BraceroInSabot&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Alan Vasconi github stats" /> 
