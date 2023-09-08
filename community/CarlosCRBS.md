@@ -5,7 +5,7 @@
 
 <h1 align="center">Welcome to Carlos Santos dataset</h1>
 
-## About Me.
+### About Me.
 
 Hi, my name is Carlos Rafael Batista Santos.
 
@@ -26,6 +26,14 @@ I believe that the current moment is opportune for career transition. I look for
 I love learning and sharing knowledge, and I hope one day to be part of the group of people who will make this world better through technology.
 
 ### Contact Me.
+
+<div align="center">  
+<a href="https://www.linkedin.com/in/carlos-rafael-batista-santos-22b80216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://github.com/CarlosCRBS/" target="_blank"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white"</a>
+</div>
+
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ademirerthal/)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Juni0r/dio-lab-open-source/tree/main/community/Carlos-Juni0r.md)
@@ -50,10 +58,7 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
   <img src="https://github-profile-trophy.vercel.app/?username=Alan-Vasconi&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-<a href="https://www.linkedin.com/in/alanvasconi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://www.instagram.com/_alan.souzaa_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
+
   
 
 
