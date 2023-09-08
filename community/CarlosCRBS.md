@@ -14,22 +14,22 @@ I have a degree in Computer Engineering, and I am passionate about data, program
 I believe that Data Analysis/Data Science are important tools to help make decisions, resolve complex challenges, and search for innovative solutions to enhance business, improve efficiency and increase company profitability.
 
 
-## Studies.
+### Studies.
 
 I am currently studying Python, SQL and Power BI, and attending a Data Science bootcamp at DIO.
 
 
-## Goals.
+### Goals.
 
 I believe that the current moment is opportune for career transition. I look forward to progressing and exploring further in the field of Data Science.
 
 I love learning and sharing knowledge, and I hope one day to be part of the group of people who will make this world better through technology.
 
-# Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ademirerthal/)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Juni0r/dio-lab-open-source/tree/main/community/Carlos-Juni0r.md)
+### Connect with Me. 
+<center>[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ademirerthal/)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Juni0r/dio-lab-open-source/tree/main/community/Carlos-Juni0r.md)</center>
 
-# Habilidades
+## Habilidades
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
