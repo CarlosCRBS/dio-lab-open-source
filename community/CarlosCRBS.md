@@ -26,6 +26,29 @@ I believe that the current moment is opportune for career transition. I look for
 I love learning and sharing knowledge, and I hope one day to be part of the group of people who will make this world better through technology.
 
 
+### Soft Skills
+![Communicative](https://img.shields.io/badge/Communicative-red)
+![Proactive](https://img.shields.io/badge/Proactive-blue)
+![Organized](https://img.shields.io/badge/Organized-red)
+![Empathetic](https://img.shields.io/badge/Empathetic-blue)
+
+### Hard Skills
+![HTML](https://img.shields.io/badge/HTML-red)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JS](https://img.shields.io/badge/JavaScript-yellow)
+![PHP](https://img.shields.io/badge/PHP-darkblue)
+![SQL](https://img.shields.io/badge/SQL-orange)
+
+
+
+
+### Toolbox:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![PowerBi](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoftexcel&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
 ## Conjunto de habilidades desenvolvidas
 
 <div style="display: inline_block">
@@ -44,7 +67,6 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
     <img alt="Angular" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
     <img alt="bootstrap" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
-
 
 <div style="display: inline_block">
     <h4>RDBMS:</h4>
@@ -71,9 +93,6 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
     <img align="center" alt="Sublime" height="20" width="auto" src="https://img.shields.io/badge/sublime-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
     <img align="center" alt="eclipse" height="20" width="auto" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
-
-
-
     
 <div style="display: inline_block"><br>
     <h2>Tecnologias</h2>
@@ -89,26 +108,14 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 <br>
 
 
-
-
 <h3 align="center"> Contact Me. </h3>
-
 <div align="center">  
 <a href="https://www.linkedin.com/in/carlos-rafael-batista-santos-22b80216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://github.com/CarlosCRBS/" target="_blank"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white"</a>
 </div>
 
 
-
-
-
-
-
-
-
 <h1 align="center"> Tech Stacks </h1>
-
-
 <div align="center">
     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python"></img>
     <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"></img>
@@ -129,12 +136,7 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 
 
 
-<br>
-<div align="center">
-  <a href="https://github.com/83Rafa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=83Rafa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=83Rafa&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
 
 
 ### Habilidades
@@ -144,25 +146,7 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 <img align="center" alt="Helthon-powerbi" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
 
 
-### Hard Skills
-![HTML](https://img.shields.io/badge/HTML-red)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JS](https://img.shields.io/badge/JavaScript-yellow)
-![PHP](https://img.shields.io/badge/PHP-darkblue)
-![SQL](https://img.shields.io/badge/SQL-orange)
 
-### Soft Skills
-![Communicative](https://img.shields.io/badge/Communicative-red)
-![Proactive](https://img.shields.io/badge/Proactive-blue)
-![Organized](https://img.shields.io/badge/Organized-red)
-![Empathetic](https://img.shields.io/badge/Empathetic-blue)
-
-
-### Toolbox:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PowerBi](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoftexcel&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 
@@ -182,6 +166,14 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdemilsonSimiao&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdemilsonSimiao&layout=compact&bg_color=013&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+<br>
+<div align="center">
+  <a href="https://github.com/83Rafa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=83Rafa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=83Rafa&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ### Contribuições no GitHub
 
