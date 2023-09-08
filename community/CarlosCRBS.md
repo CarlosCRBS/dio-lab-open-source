@@ -33,6 +33,33 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 ![Empathetic](https://img.shields.io/badge/Empathetic-blue)
 
 ### Hard Skills
+<div style="display: inline_block">
+    <img alt="python" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img alt="MySQL" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img alt="Rafa-PowerBI" height="30" width="30" src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle.png">
+    <img align="center" alt="Helthon-postsql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Helthon-powerbi" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
+</div>
+
+<div style="display: inline_block">
+    <h4>OS:</h4>
+    <img align="center" alt="Linux" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="Ubuntu" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+    <img align="center" alt="Windows" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+</div>
+
+<div style="display: inline_block">
+    <h4>IDEs:</h4>
+    <img align="center" alt="VSCode" height="20" width="auto" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img align="center" alt="Sublime" height="20" width="auto" src="https://img.shields.io/badge/sublime-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+    <img align="center" alt="eclipse" height="20" width="auto" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+</div>
+
+
+
+
+
+
 ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PowerBi](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -60,7 +87,7 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 
 <div style="display: inline_block">
     <h4>LINGUAGENS:</h4>
-    <img alt="python" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img alt="python" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">    
     <img alt="typescript" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img alt="javascript" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img alt="HTML" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -87,19 +114,7 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
     <img alt="AWS" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
 
-<div style="display: inline_block">
-    <h4>OS:</h4>
-    <img align="center" alt="Linux" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img align="center" alt="Ubuntu" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
-    <img align="center" alt="Windows" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-</div>
 
-<div style="display: inline_block">
-    <h4>IDEs:</h4>
-    <img align="center" alt="VSCode" height="20" width="auto" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img align="center" alt="Sublime" height="20" width="auto" src="https://img.shields.io/badge/sublime-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-    <img align="center" alt="eclipse" height="20" width="auto" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-</div>
     
 <div style="display: inline_block"><br>
     <h2>Tecnologias</h2>
