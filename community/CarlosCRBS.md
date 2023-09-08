@@ -5,7 +5,7 @@
 
 <h1 align="center">Welcome to Carlos Santos dataset</h1>
 
-# About Me.
+## About Me.
 
 Hi, my name is Carlos Rafael Batista Santos.
 
@@ -14,12 +14,12 @@ I have a degree in Computer Engineering, and I am passionate about data, program
 I believe that Data Analysis/Data Science are important tools to help make decisions, resolve complex challenges, and search for innovative solutions to enhance business, improve efficiency and increase company profitability.
 
 
-# Studies.
+## Studies.
 
 I am currently studying Python, SQL and Power BI, and attending a Data Science bootcamp at DIO.
 
 
-# Goals.
+## Goals.
 
 I believe that the current moment is opportune for career transition. I look forward to progressing and exploring further in the field of Data Science.
 
@@ -34,14 +34,7 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-<p align="center"> by Carlos-Juni0r </p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/ucarlos-junior/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=default)](https://www.instagram.com/c4rlos_junior_)
-</div>
 
 
 
