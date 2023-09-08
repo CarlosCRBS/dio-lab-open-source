@@ -25,7 +25,13 @@ I believe that the current moment is opportune for career transition. I look for
 
 I love learning and sharing knowledge, and I hope one day to be part of the group of people who will make this world better through technology.
 
-### Connect with Me. 
+### Contact Me.
+
+|   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademirerthal/)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Juni0r/dio-lab-open-source/tree/main/community/Carlos-Juni0r.md)
+ |  |
+| :---    | :----:   | ---:    |
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademirerthal/)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Juni0r/dio-lab-open-source/tree/main/community/Carlos-Juni0r.md)
 
