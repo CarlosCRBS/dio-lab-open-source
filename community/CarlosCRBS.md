@@ -39,6 +39,7 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
     <img alt="PostSQL" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img alt="powerbi" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
     <img alt="excel" height="40" width="auto" src="https://pt.wikipedia.org/wiki/Microsoft_Excel#/media/Ficheiro:Microsoft_Office_Excel_(2019%E2%80%93present).svg">
+    
 </div>
 
 
@@ -70,18 +71,28 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 </div>
 
 
-## Principais Projetos
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=83Rafa&repo=house-rocket&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=83Rafa&repo=deteccao-rede-yolov3&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+## Main Projects
+
+<div align="center">
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)    
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=83Rafa&repo=house-rocket&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)   
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=83Rafa&repo=deteccao-rede-yolov3&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)    
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=83Rafa&repo=image-recommendation&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
+
+</div>
+
     
 
-## Minhas Contribuições
+## My Contributions
+
+<div align="center">
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=83Rafa&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/83Rafa/dio-lab-open-source)
 
+</div>
 
-### Contribuições no GitHub
+### Contributions on GitHub
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BraceroInSabot&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Alan Vasconi github stats" /> 
@@ -91,11 +102,11 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 [![Alan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BraceroInSabot&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BraceroInSabot&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-
+</div>
 
 
 <br>
@@ -107,4 +118,6 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 
 <div align="center"><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif"/></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>    
+
+---
