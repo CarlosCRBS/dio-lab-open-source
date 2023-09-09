@@ -27,42 +27,53 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 
 
 ### Soft Skills
+<div align="center">
+
 ![Communicative](https://img.shields.io/badge/Communicative-red)
 ![Proactive](https://img.shields.io/badge/Proactive-blue)
 ![Organized](https://img.shields.io/badge/Organized-red)
 ![Empathetic](https://img.shields.io/badge/Empathetic-blue)
 
+</div>
+
 ### Hard Skills
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
     <img alt="python" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img alt="MySQL" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img alt="PostSQL" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img alt="powerbi" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
     <img alt="excel" height="40" width="auto" src="/docs/excel_icon.png">
+</div>
+
+
     
-</div>
-
-
-<div style="display: inline_block">
-    <h4>OS:</h4>
-    <img align="center" alt="Linux" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img align="center" alt="Ubuntu" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
-    <img align="center" alt="Windows" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-</div>
-
-<div style="display: inline_block">
-    <h4>IDEs:</h4>
-    <img align="center" alt="VSCode" height="20" width="auto" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img align="center" alt="Sublime" height="20" width="auto" src="https://img.shields.io/badge/sublime-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-</div>
-
-<div style="display: inline_block">
-<h4> Others Tech Stacks </h4>
-    <img align="center" alt="Django" height="30" width="auto" src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"></img>
-    <img align="center" alt="Docker" height="30" width="auto" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"></img>
-    <img align="center" alt="Git" height="30" width="auto" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"></img>
-</div>
-
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+   <tr>    
+        <td>
+            <div>
+            <h5 align="center">OS:</h5>
+            <img align="center" alt="Linux" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+            <img align="center" alt="Ubuntu" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+            <img align="center" alt="Windows" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+            </div>
+        </td>
+        <td>
+            <div>
+            <h5 align="center">IDEs:</h5>
+            <img align="center" alt="VSCode" height="20" width="auto" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+            <img align="center" alt="Sublime" height="20" width="auto" src="https://img.shields.io/badge/sublime-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+            </div>
+        </td>
+        <td>
+            <div>
+            <h5 align="center">Others Tech Stacks:</h5>
+                <img align="center" alt="Django" height="25" width="auto" src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"></img>
+                <img align="center" alt="Docker" height="25" width="auto" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"></img>
+                <img align="center" alt="Git" height="25" width="auto" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"></img>
+            </div>
+        </td>
+    </tr>
+</table>
 
 <h3 align="center"> Contact Me. </h3>
 <div align="center">  
