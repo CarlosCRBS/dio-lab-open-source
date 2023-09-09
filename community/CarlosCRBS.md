@@ -45,41 +45,22 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
     <img alt="excel" height="40" width="auto" src="/docs/excel_icon.png">
 </div>
 
-
-    
-<table border="0" cellspacing="0" cellpadding="0" align="center">
-   <tr>    
-        <td>
-            <div>
-            <h5 align="center">OS:</h5>
-            <img align="center" alt="Linux" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-            <img align="center" alt="Ubuntu" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
-            <img align="center" alt="Windows" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-            </div>
-        </td>
-        <td>
-            <div>
-            <h5 align="center">IDEs:</h5>
-            <img align="center" alt="VSCode" height="20" width="auto" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-            <img align="center" alt="Sublime" height="20" width="auto" src="https://img.shields.io/badge/sublime-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-            </div>
-        </td>
-        <td>
-            <div>
-            <h5 align="center">Others Tech Stacks:</h5>
-                <img align="center" alt="Django" height="25" width="auto" src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"></img>
-                <img align="center" alt="Docker" height="25" width="auto" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"></img>
-                <img align="center" alt="Git" height="25" width="auto" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"></img>
-            </div>
-        </td>
-    </tr>
-</table>
-
-<h3 align="center"> Contact Me. </h3>
-<div align="center">  
-<a href="https://www.linkedin.com/in/carlos-rafael-batista-santos-22b80216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://github.com/CarlosCRBS/" target="_blank"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white"</a>
+<div align="center" style="display: inline_block">
+     <h5 align="center">OS:</h5>
+         <img align="center" alt="Linux" height="35" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+         <img align="center" alt="Ubuntu" height="35" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+         <img align="center" alt="Windows" height="35" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+     <h5 align="center">IDEs:</h5>
+         <img align="center" alt="VSCode" height="20" width="auto" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+         <img align="center" alt="Sublime" height="20" width="auto" src="https://img.shields.io/badge/sublime-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+     <h5 align="center">Others Tech Stacks:</h5>
+         <img align="center" alt="Django" height="25" width="auto" src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"></img>
+         <img align="center" alt="Docker" height="25" width="auto" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"></img>
+         <img align="center" alt="Git" height="25" width="auto" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"></img>
 </div>
+    
+
+
 
 
 ## Main Projects
@@ -118,16 +99,28 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BraceroInSabot&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 </div>
+<br>
+<br>
 
+---
+
+<h2 align="center"> Contact Me. </h2>
+<div align="center">  
+<a href="https://www.linkedin.com/in/carlos-rafael-batista-santos-22b80216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://github.com/CarlosCRBS/" target="_blank"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white"</a>
+</div>
+
+    
+---
+    
+
+<div align="center"><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif"/></div>
 
 <br>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosCRBS}/count.svg" /></p> 
 <br></div>
-
-
-<div align="center"><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif"/></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>    
 
