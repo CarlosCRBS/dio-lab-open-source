@@ -38,7 +38,7 @@ I love learning and sharing knowledge, and I hope one day to be part of the grou
     <img alt="MySQL" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img alt="PostSQL" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img alt="powerbi" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
-    <img alt="excel" height="40" width="auto" src="https://pt.wikipedia.org/wiki/Microsoft_Excel#/media/Ficheiro:Microsoft_Office_Excel_(2019%E2%80%93present).svg">
+    <img alt="excel" height="40" width="auto" src="/docs/excel_icon.png">
     
 </div>
 
